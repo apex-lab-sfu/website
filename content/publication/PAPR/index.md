@@ -97,7 +97,7 @@ In the following figure, we can see how the Adaptive IMLE algorithm shrinks neig
 <!-- include a citation block in markdown -->
 <!-- <p>
 If you find our work useful in your research, please consider citing:
-</p> --> -->
+</p> -->
 
 ```bibtex
 @inproceedings{zhang2023papr,
