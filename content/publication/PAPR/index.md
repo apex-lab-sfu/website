@@ -88,16 +88,16 @@ src="https://youtube.com/embed/xKt6YYY4hq8">
 </iframe>
 
 <!-- include image coders.jpg -->
-<p>
+<!-- <p>
 In the following figure, we can see how the Adaptive IMLE algorithm shrinks neighbourhoods around data points in a toy example. You can find a jupyter notebook that includes a basic implementation of Adaptive IMLE here.
-</p>
-<img src="https://mehranagh20.github.io/AdaIMLE/assets/img/adaptive_imle_training.gif" alt="training" width="50%" center/>
-
-<br/>
-<!-- include a citation block in markdown -->
-<p>
-If you find our work useful in your research, please consider citing:
 </p> -->
+<!-- <img src="https://mehranagh20.github.io/AdaIMLE/assets/img/adaptive_imle_training.gif" alt="training" width="50%" center/> -->
+
+<!-- <br/> -->
+<!-- include a citation block in markdown -->
+<!-- <p>
+If you find our work useful in your research, please consider citing:
+</p> --> -->
 
 ```bibtex
 @inproceedings{zhang2023papr,
