@@ -9,8 +9,8 @@ sections:
     content:
       title: |
         APEX Lab
-      image:
-        filename: gp7.jpeg
+      # image:
+      #   filename: gp7.jpeg
       text: |
         <br>
         
@@ -67,9 +67,11 @@ sections:
           color: '#333'
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
-      slide_height: '500px'
+      slide_height: '300px'
       is_fullscreen: False
       # Automatically transition through slides?
+      columns: '1'
+
       loop: true
       # Duration of transition between slides (in ms)
       interval: 4000
