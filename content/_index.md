@@ -65,16 +65,16 @@ sections:
               brightness: 0.8
           position: center
           color: '#333'
-      - title: 
-        content: ''
-        align: center
-        background:
-          image:
-            filename: slide/gp1.jpg
-            filters:
-              brightness: 0.8
-          position: center
-          color: '#333'
+      # - title: 
+      #   content: ''
+      #   align: center
+      #   background:
+      #     image:
+      #       filename: slide/gp1.jpg
+      #       filters:
+      #         brightness: 0.8
+      #     position: center
+      #     color: '#333'
     design:
       slide_height: '350px'
       is_fullscreen: False
