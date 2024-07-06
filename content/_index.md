@@ -40,6 +40,16 @@ sections:
         align: center
         background:
           image:
+            filename: slide/gp7.jpeg
+            filters:
+              brightness: 0.8
+          position: center
+          color: '#333'
+      - title: 
+        content: ''
+        align: center
+        background:
+          image:
             filename: slide/gp3.jpeg
             filters:
               brightness: 0.8
@@ -66,14 +76,9 @@ sections:
           position: center
           color: '#333'
     design:
-      # Slide height is automatic unless you force a specific height (e.g. '400px')
-      slide_height: '300px'
+      slide_height: '350px'
       is_fullscreen: False
-      # Automatically transition through slides?
-      columns: '1'
-
       loop: true
-      # Duration of transition between slides (in ms)
       interval: 4000
   
   
