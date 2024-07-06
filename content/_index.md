@@ -40,7 +40,7 @@ sections:
         align: center
         background:
           image:
-            filename: slide/gp1.jpg
+            filename: slide/gp3.jpeg
             filters:
               brightness: 0.8
           position: center
@@ -60,7 +60,7 @@ sections:
         align: center
         background:
           image:
-            filename: slide/gp6.jpeg
+            filename: slide/gp1.jpg
             filters:
               brightness: 0.8
           position: center
