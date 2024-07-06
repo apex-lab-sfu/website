@@ -10,7 +10,7 @@ sections:
       title: |
         APEX Lab
       image:
-        filename: sfu.jpg
+        filename: gp7.jpeg
       text: |
         <br>
         
@@ -18,16 +18,6 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 
-        content: ''
-        align: center
-        background:
-          image:
-            filename: slide/gp1.jpg
-            filters:
-              brightness: 0.8
-          position: center
-          color: '#333'
       - title: Join the APEX Lab
         content: ''
         align: center
@@ -45,6 +35,36 @@ sections:
           icon_pack: fas
           text: Join Us
           url: ../contact/
+      - title: 
+        content: ''
+        align: center
+        background:
+          image:
+            filename: slide/gp1.jpg
+            filters:
+              brightness: 0.8
+          position: center
+          color: '#333'
+      - title: 
+        content: ''
+        align: center
+        background:
+          image:
+            filename: slide/gp2.jpeg
+            filters:
+              brightness: 0.8
+          position: center
+          color: '#333'
+      - title: 
+        content: ''
+        align: center
+        background:
+          image:
+            filename: slide/gp6.jpeg
+            filters:
+              brightness: 0.8
+          position: center
+          color: '#333'
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: '500px'
