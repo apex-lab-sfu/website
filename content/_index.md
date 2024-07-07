@@ -14,7 +14,9 @@ sections:
       text: |
         <br>
         
-        The **APEX lab** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        Algorithmically Principled Exploration (APEX)
+        <br>
+        explore broadly, venture **boldly**
   - block: slider
     content:
       slides:
