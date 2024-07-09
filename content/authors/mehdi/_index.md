@@ -10,7 +10,7 @@ last_name: Esmaeilzadeh
 superuser: true
 
 # Role/position
-role: Alumni
+role: Affiliated Member
 
 # Organizations/Affiliations
 organizations:
@@ -59,7 +59,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Alumni
+  - Affiliated members/collaborators
 ---
 
 Hi there! I received my bachelor's degree in Computer Science from Simon Fraser University. My research interests include Generative Modeling and 3D Reconstruction. 
