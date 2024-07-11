@@ -10,7 +10,7 @@ last_name: Li
 superuser: true
 
 # Role/position
-role: Professor of Computer Science
+role: Assistant Professor of Computer Science
 
 # Organizations/Affiliations
 organizations:
